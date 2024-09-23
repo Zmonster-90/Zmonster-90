@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Zmonster-90
 - 👀 I’m interested in learning Dev Ops
 - 🌱 I’m currently learning the Linux file system and command line. 
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking for any information, tools and / or tips you have to offer.
+- 💟 I truly appreciate how open-source the tech community seems to be. 
 - 📫 You can email me at zita90@gmail.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I used to perform in unicycle, circus acts. 
